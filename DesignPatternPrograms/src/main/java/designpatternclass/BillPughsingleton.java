@@ -1,6 +1,6 @@
 package designpatternclass;
 /**
- * Bill Pugh Singleton:Using instance we ijmplementing the program
+ * Bill Pugh Singleton:Using instance we implementing the program
  * @author LOKESH NAIK
  * */
 
