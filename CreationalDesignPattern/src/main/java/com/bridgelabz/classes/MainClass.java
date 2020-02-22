@@ -1,6 +1,10 @@
 package com.bridgelabz.classes;
 
 import com.bridgelabz.interfacepackage.Computer;
+/**
+ * Factory Design Pattern:Implementing the factory design pattern using interface 
+ * @author Lokesh Naik 
+ * */
 
 public class MainClass {
 

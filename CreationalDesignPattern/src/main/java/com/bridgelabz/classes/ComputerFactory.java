@@ -1,10 +1,13 @@
 package com.bridgelabz.classes;
 
 import com.bridgelabz.interfacepackage.Computer;
+/**
+ * @return Object
+ * */
 
-public class ComputerFactory
+public class ComputerFactory                         
 {
-  public static Computer getInstance(String str)
+  public static Computer getInstance(String str) //Returns the desired object you want
   {
 	  if(str.equals("PC"))
 	  {
